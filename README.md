@@ -1,4 +1,4 @@
- #Sie Grabber From Zone H
+#Sie Grabber From Zone H
 Usage 
 Download Or Clone Site Grabber Then Open In Notepad++ And Find
 "ZHE" : "YOUR CODE",
